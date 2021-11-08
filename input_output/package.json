@@ -1,0 +1,23 @@
+{
+  "name": "preparations_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitfield-wave/ls-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitfield-wave/ls-prep/issues"
+  },
+  "homepage": "https://github.com/whitfield-wave/ls-prep#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
